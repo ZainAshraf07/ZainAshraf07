@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 ## 5 - Shopify
 
 # Projects
-[SULIS LABS]()
+[SULIS LABS](https://electronics-kitchen.myshopify.com/a/gempages?version=v7&shop_id=483633605126390603&theme_page_id=484212063887950638&page_type=GP_INDEX)
 [ELECTRONICS KITCHEN](https://electronics-kitchen.myshopify.com/?_bt=eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaEpJaVpsYkdWamRISnZibWxqY3kxcmFYUmphR1Z1TG0xNWMyaHZjR2xtZVM1amIyMEdPZ1pGVkE9PSIsImV4cCI6IjIwMjMtMTAtMjhUMTI6MTg6MzMuODQ4WiIsInB1ciI6InBlcm1hbmVudF9wYXNzd29yZF9ieXBhc3MifX0%3D--f33b19aa9f17a24e9c2ad278ceaab1cea0808756)
-[HOME DECOR]
+[JEWERLRY COLLECTION](https://electronics-kitchen.myshopify.com/pages/jewelry-collection)
